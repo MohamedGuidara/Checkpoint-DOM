@@ -1,0 +1,28 @@
+th,td{
+    width: 10%;
+    text-align: center;
+}
+th {
+    height: 50px;
+    color: blue;
+}
+td{
+    height: 180px;
+}
+h2{
+    text-align: center;
+    color: aqua;
+}
+h3{
+    text-align: end;
+    margin-right: 100px;
+    margin-top: 30px;
+}
+table{
+    margin-top: 30px;
+}
+
+footer>section{
+    margin-top: 20px;
+    text-align: center;
+}
